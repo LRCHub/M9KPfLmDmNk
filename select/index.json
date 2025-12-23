@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "リンジュー・ラヴ",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-23T13:14:57.963526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_リンジュー・ラヴ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_リンジュー・ラヴ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_リンジュー・ラヴ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/04_リンジュー・ラヴ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ - Ringyu Love",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/05_リンジュー・ラヴ_-_Ringyu_Love_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ - Ringyu Love",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/06_リンジュー・ラヴ_-_Ringyu_Love_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "リンジュー・ラヴ（Short ballad ver.） - Ringyu Love (Short Ballad Ver.)",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/07_リンジュー・ラヴ(Short_ballad_ver.)_-_Ringyu_Love_(Short_Ballad_Ver.)_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リンジュー・ラヴ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_リンジュー・ラヴ_マカロニえんぴつ.txt"
+    }
+  ]
+}
